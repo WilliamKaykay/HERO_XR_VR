@@ -12,7 +12,7 @@
 	branch = main
 [submodule "ros2_ws/src/crazyswarm2"]
 	path = ros2_ws/src/crazyswarm2
-	url = https://github.com/WilliamKaykay/crazyswarm2
+	url = https://github.com/WilliamKaykay/crazyswarm2.git
 	branch = main
 [submodule "ros2_ws/src/motion_capture_tracking"]
 	path = ros2_ws/src/motion_capture_tracking
