@@ -191,7 +191,7 @@ ros2 topic pub -t 1 /all/mpc_hover std_msgs/msg/Empty
 
 We also implemented the MPC land feature, but it's still experimental and may result in crashing the drone.
 
-## Versions
+## Version
 | Version | Description |
 | --- | --- |
 | 1.0 | Initial release |
