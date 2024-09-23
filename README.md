@@ -189,7 +189,7 @@ Using the command line publisher we can command all vehicles to stop the traject
 ros2 topic pub -t 1 /all/mpc_hover std_msgs/msg/Empty
 ```
 
-We also implemented a MPC land feature, but it's still experimental and may result in crashing the drone.
+We also implemented the MPC land feature, but it's still experimental and may result in crashing the drone.
 
 ## Versions
 | Version | Description |
